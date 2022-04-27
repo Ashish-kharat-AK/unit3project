@@ -2,11 +2,13 @@
 
 https://mohitsvp.github.io/bewakoof-clone
 
-!<div alighn-items:center; width: 400px; heiht:100px;>
-  [Landing Page](https://images.bewakoof.com/uploads/grid/app/DOTD-IS-BACK-homepage-1x1-17-1-2022-M-1642408906.jpg)
-</div>
+<h3>Bewakoof.com, which sells apparel and mobile phone covers, is better known for creating head-turning catalogs like its 'Ghanta' collection of t-shirts for college students with messages like 'Ghanta Engineering/Ghanta MBA'; the collection was a big hit and was tagged as 'best-seller' by the company</h3>
 
-![Signup](https://images.bewakoof.com/web/desktop-sign-up-banner--1623760676.png)
+
+<!--   [Landing Page](https://images.bewakoof.com/uploads/grid/app/DOTD-IS-BACK-homepage-1x1-17-1-2022-M-1642408906.jpg) -->
+
+
+<!-- ![Signup](https://images.bewakoof.com/web/desktop-sign-up-banner--1623760676.png) -->
 
 ![Login](https://images.bewakoof.com/web/group-19-1617704502.png)
 
